@@ -5,4 +5,5 @@
 - :mortar_board: I'm currently a 1<sup>st</sup> year PhD student in computer science at [UESCT](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China), Chengdu, China. 
 - :page_facing_up: I'm researching in social network analysis and spatial-temporal data modeling. 
 - :wave: I'm looking for collaborations and opening for discussions, you can reach me at [https://xovee.cn](https://xovee.cn)
-- 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
